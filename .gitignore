@@ -4,6 +4,7 @@ manifest.json
 
 # IDE-specific files
 .vscode/
+client_secret_871472178255-buop84n5hgl0fo4eecn5cvclvqiphth1.apps.googleusercontent.com.json
 
 # OS-specific files
 .DS_Store
